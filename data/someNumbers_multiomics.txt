@@ -1,0 +1,3 @@
+WT_0h	HPA_72h	HPA_6h	HPA_24h
+median_gene_per_cell	2216.5	1652	1968	1829
+number_of_cells	2932	2689	4925	4785
