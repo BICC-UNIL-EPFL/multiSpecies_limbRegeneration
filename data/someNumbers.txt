@@ -1,3 +1,0 @@
-Mouse_AERfactorsALI	Mouse_96w	Xen_96w	Xen_ALI	Mouse_ALI	Mouse_AERfactors96w	Mouse_VehCtrl96w
-median_gene_per_cell	4092.5	4074	3630	3987	5191	2795	2360
-number_of_cells	7876	5423	10000	10000	5560	3745	3759
