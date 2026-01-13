@@ -10,7 +10,6 @@ Raw sequencing data (FASTQs) and processing files have been submitted under the 
 - scRNAseq: GSE292212
 - ATAC-seq: GSE314013  
 
-DOI for the released code:
-(to come)
+Zenodo DOI for the released code: (https://zenodo.org/badge/934804766.svg)](https://doi.org/10.5281/zenodo.18234469)
 
 
