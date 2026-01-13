@@ -1,11 +1,16 @@
-# multiSpecies_limbRegeneration
-Some scripts used for the bioinformatics analysis of multi-omics data of the manuscript entitled:
+# Oxygen sensing & vertebrate limb regeneration
 
-_Species-specific oxygen sensing governs the initiation of vertebrate limb regeneration_
+This repository contains analysis scripts related to ATAC-seq, scRNA-seq and scMultiomics figures of manuscript entitled:
 
-Related to scRNA-seq and scMultiomics figures.
+_Species-specific oxygen sensing governs the initiation of vertebrate limb regeneration (Tsissios et al., 2025)_
 
-Here is the DOI for the released code:
+
+Raw sequencing data (FASTQs) and processing files have been submitted under the following GEO accession numbers:
+- multiomics: GSE292215
+- scRNAseq: GSE292212
+- ATAC-seq: GSE314013  
+
+DOI for the released code:
 (to come)
 
 
